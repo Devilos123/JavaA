@@ -1,2 +1,2 @@
-# JavaA
+# Java Beginner File
 This is a java source file which shows how to code in inputs ,variables and if and else statements...
